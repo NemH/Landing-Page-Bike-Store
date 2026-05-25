@@ -69,8 +69,8 @@
   }
 
   &:hover {
-    box-shadow: 1 4 #e8e8f066;
-    border: 1 solid #fff;
+    box-shadow: 1px 4px #e8e8f066;
+    border: 1px solid #fff;
   }
 
   &--name,
@@ -89,7 +89,7 @@
     line-height: 20px;
   }
 
-  ::placeholder {
+  &::placeholder {
     line-height: 20px;
     font-weight: $font-size-regular;
     font-family: $font-family;
