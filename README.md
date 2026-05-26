@@ -1,7 +1,7 @@
 # Bike Store - Modern Design Website
 This project showcase a modern electro bicycle store website designed to help users choose a quality, safe, and beautiful bicycle.
 
-# Description
+## Description
 The site provides:
 
 1. Fully responsive design: The site works flawlessly on smartphones, tablets and desktops using a flexible Grid system.
@@ -14,5 +14,5 @@ The site provides:
 
 5. Feedback form: A form for quickly signing up for a test drive.
 
-# Live Demo
+## Live Demo
 Experience the live website: [Bike Store](https://nemh.github.io/Landing-Page/)
