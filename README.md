@@ -15,5 +15,5 @@ The site provides:
 
 5. Feedback form: A form for quickly signing up for a test drive.
 
-## Live Demo
-Experience the live website: [Bike Store](https://nemh.github.io/Landing-Page/)
+## [Live Demo](https://nemh.github.io/Landing-Page/)
+## [Reference](https://www.figma.com/file/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0%3A1)
