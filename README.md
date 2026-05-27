@@ -19,3 +19,37 @@ This project showcase a modern electro bicycle store website designed to help us
 
 ## 🖥️ How to Run the Project Locally
 Follow these steps to run the project locally:
+
+### 1. Clone the repository
+
+```bash
+git clone 
+```
+
+### 2. Navigate to the project directory
+
+```bash
+cd 
+```
+
+### 3. Install dependencies
+
+```bash
+npm install
+```
+
+### 4. Start the development server
+
+```bash
+npm run master
+```
+
+The application will be available at http://localhost:8080.
+
+### 5. Build for production
+
+```bash
+npm run build
+```
+
+The production-ready files will be generated in the dist folder.
