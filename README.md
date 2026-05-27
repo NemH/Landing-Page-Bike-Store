@@ -15,5 +15,6 @@ The site provides:
 
 5. Feedback form: A form for quickly signing up for a test drive.
 
-## [Live Demo](https://nemh.github.io/Landing-Page/)
-## [Reference](https://www.figma.com/file/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0%3A1)
+## [🌐 Live Demo](https://nemh.github.io/Landing-Page/)
+## [🎨 Reference](https://www.figma.com/file/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0%3A1)
+## 🖥️ How to Run the Project Locally
