@@ -23,13 +23,13 @@ Follow these steps to run the project locally:
 ### 1. Clone the repository
 
 ```bash
-git clone 
+git clone https://github.com/NemH/Landing-Page-Bike-Store.git
 ```
 
 ### 2. Navigate to the project directory
 
 ```bash
-cd 
+cd Landing-Page-Bike-Store
 ```
 
 ### 3. Install dependencies
@@ -38,18 +38,12 @@ cd
 npm install
 ```
 
-### 4. Start the development server
+### 4. Run the project locally
 
 ```bash
-npm run master
+npm start
 ```
 
 The application will be available at http://localhost:8080.
-
-### 5. Build for production
-
-```bash
-npm run build
-```
 
 The production-ready files will be generated in the dist folder.
