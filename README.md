@@ -1,7 +1,8 @@
 # Bike Store - Modern Design Website
-This project showcase a modern electro bicycle store website designed to help users choose a quality, safe, and beautiful bicycle.
 
 ## Description
+This project showcase a modern electro bicycle store website designed to help users choose a quality, safe, and beautiful bicycle.
+
 The site provides:
 
 1. Fully responsive design: The site works flawlessly on smartphones, tablets and desktops using a flexible Grid system.
