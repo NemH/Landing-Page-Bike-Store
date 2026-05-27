@@ -1,4 +1,4 @@
-# MyBike Landing Project | [DEMO PAGE](https://nemh.github.io/Landing-Page-Bike-Store/)
+# MyBike Landing Project | [DEMO PAGE](https://nemh.github.io/Landing_MyBike/)
 This project showcase a modern electro bicycle store website designed to help users choose a quality, safe, and beautiful bicycle.
 
 ## ⚙️ Technologies Used
@@ -23,13 +23,13 @@ Follow these steps to run the project locally:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/NemH/Landing-Page-Bike-Store.git
+git clone https://github.com/NemH/Landing_MyBike.git
 ```
 
 ### 2. Navigate to the project directory
 
 ```bash
-cd Landing-Page-Bike-Store
+cd Landing_MyBike
 ```
 
 ### 3. Install dependencies
